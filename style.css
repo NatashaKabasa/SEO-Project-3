@@ -1,0 +1,36 @@
+.p{
+    background-color: mediumturquoise;
+    color: black;
+    padding: 10px auto;
+}
+h1{
+    color:darkblue;
+    text-align: center;
+    margin: 10px auto;
+    font-family: 'Indie Flower'
+}
+
+.heading{
+    text-align: center;
+    color: rgb(10, 199, 233) ;
+    font-size: medium;
+}
+h2{
+    color: darkcyan;
+    text-align: center;
+}
+
+body{
+    background-color: lightcyan;
+    font-family: 'Dosis'
+}
+.interest{
+    object-fit: cover;
+    width: 500px;
+    height: 500px;
+}
+img{
+  border: lightcoral;
+  border-radius: 30px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 16);
+}
